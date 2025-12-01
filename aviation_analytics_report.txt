@@ -1,0 +1,47 @@
+
+============================================================
+AVIATION DATA ANALYTICS REPORT
+============================================================
+
+OVERVIEW STATISTICS
+------------------------------------------------------------
+Total Flights Analyzed: 5,000
+Number of Airlines: 10
+Number of Airports: 10
+Average Departure Delay: 12.70 minutes
+On-Time Performance: 37.86%
+Average Flight Duration: 2.53 hours
+
+KEY INSIGHTS
+------------------------------------------------------------
+
+AIRLINE PERFORMANCE:
+  AA: Avg Delay = 12.4 min, Avg Duration = 2.4 hrs
+  BA: Avg Delay = 13.4 min, Avg Duration = 2.5 hrs
+  CX: Avg Delay = 12.9 min, Avg Duration = 2.5 hrs
+  DL: Avg Delay = 12.3 min, Avg Duration = 2.6 hrs
+  EK: Avg Delay = 11.8 min, Avg Duration = 2.6 hrs
+  KA: Avg Delay = 13.0 min, Avg Duration = 2.5 hrs
+  LH: Avg Delay = 12.6 min, Avg Duration = 2.5 hrs
+  QF: Avg Delay = 13.1 min, Avg Duration = 2.5 hrs
+  SQ: Avg Delay = 12.7 min, Avg Duration = 2.6 hrs
+  UA: Avg Delay = 13.0 min, Avg Duration = 2.5 hrs
+
+DELAY CATEGORY BREAKDOWN:
+  Early/On-time: 37.9%
+  Moderate Delay: 37.6%
+  Minor Delay: 19.9%
+  Major Delay: 4.6%
+
+RECOMMENDATIONS
+------------------------------------------------------------
+1. Focus on routes with consistently high delays for operational improvements
+2. Analyze peak delay times to optimize scheduling
+3. Monitor airline-specific performance metrics
+4. Consider weather and seasonal factors in delay patterns
+5. Implement predictive analytics for delay forecasting
+
+============================================================
+Report generated using Python data analytics tools
+Perfect for showcasing skills in aviation data analysis
+============================================================
